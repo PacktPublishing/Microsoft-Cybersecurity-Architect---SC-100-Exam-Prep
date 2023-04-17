@@ -1,0 +1,11 @@
+Design a Zero Trust strategy and architecture 
+
+
+Gartner resource
+https://www.microsoft.com/en-us/security/blog/2023/03/02/microsoft-is-named-a-leader-in-the-2022-gartner-magic-quadrant-for-endpoint-protection-platforms/
+
+CAF Landing Zone Deployment - Lab Step By Step-II
+https://github.com/AnandRao82/caflzone01/tree/main/root/caf01%20(caf01)
+
+Chapter Case Study 01 and 02
+https://github.com/MicrosoftLearning/SC-100-Microsoft-Cybersecurity-Architect/tree/master/Instructions/CaseStudy
